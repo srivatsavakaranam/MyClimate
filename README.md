@@ -9,6 +9,8 @@ for total number of cities
 http://localhost:8080/myweather/weather/city/property 
 FOR PARTICULAR FILED
 
+AVERAGE WEATHER:
+
 http://localhost:8080/myweather/weather/city/average/hourly/property 
 FOR hourly avg
 
